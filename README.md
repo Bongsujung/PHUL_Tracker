@@ -83,6 +83,5 @@ PHUL 프로그램의 핵심은 **반복수 우선 과부하 + 중량 증가 전�
 ### 1. 프로젝트 클론
 ```bash
 git clone https://github.com/yourusername/phul-tracker.git
-cd phul-tracker
 pip3 install streamlit 
 streamlit run PHUL.py
